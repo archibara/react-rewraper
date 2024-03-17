@@ -1,7 +1,7 @@
 {
   "private": false,
   "name": "@archibara/react-rewraper",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Stop using nested wrappers!",
   "license": "MIT",
   "author": "Artur Perepelitsa <artur.perepelytsia.m@gmail.com> (github.com/archibara)",
@@ -13,12 +13,12 @@
     "url": "https://github.com/archibara/react-rewraper/issues"
   },
   "type": "module",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "tsc"
   },
   "sideEffects": false,
-  "types": "index.d.ts",
+  "types": "dist/index.d.ts",
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0  || ^17.0.0 || ^18.0.0"
   },
