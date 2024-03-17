@@ -1,8 +1,9 @@
 # Motivation
 https://www.reddit.com/r/ProgrammerHumor/comments/1bb637f/reactisfine/
+
 <img src="https://preview.redd.it/reactisfine-v0-gyk5uj2o3hnc1.jpeg?auto=webp&s=91257656192cb9202b5832315aa9dc4fdbc6da42" alt="reactIsFine" height="300" width="auto">
 
-Before
+[Example:](https://github.com/gilbarbara/react-redux-saga-boilerplate/blob/main/src/main.tsx#L26-L35)
 ```tsx
 <Provider store={store}>
   <PersistGate loading={<Loader block size={100} />} persistor={persistor}>
@@ -55,6 +56,6 @@ Or combine your components & props:
 
 ### 100% TypeScript safety... almost
 
-### Roadmap
-- test it on real project
-- npm uninstall @archibara/react-rewraper
+### Roadmap:
+- Step 1: Test this on real project
+- Step 2: Remove this package and never use it again
