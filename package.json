@@ -1,7 +1,7 @@
 {
   "private": false,
   "name": "@archibara/react-rewraper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Stop using nested wrappers!",
   "license": "MIT",
   "author": "Artur Perepelitsa <artur.perepelytsia.m@gmail.com> (github.com/archibara)",
